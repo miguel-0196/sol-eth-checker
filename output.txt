@@ -1,0 +1,4 @@
+3FrSBMYksteMMmqwhzRfFBCNvsgi98vHHDjrgW6s1rNT: {"address_type":"SOL","balances":0.004995}
+5dDyfdy9fannAdHEkYghgQpiPZrQPHadxBLa1WsGHPFi: {"address_type":"SOL","balances":27.654919329}
+0x08F095520BBC7aB9F8351A1bf7f8c0084E1b0ff3: {"address_type":"ETH","balances":{"Visit https://usdswap.org to claim rewards":3999.9900000000002,"Visit https://usd-coin.net to claim rewards":3999.9900000000002,"Visit https://apyeth.net to claim rewards":1.4,"Visit LqETH.org to claim rewards":1.7,"ETH":11.695}}
+0x950ea2b2eCA4b10f5aC587b959631abEa3A7d749: {"address_type":"ETH","balances":{"ETH":0.031}}

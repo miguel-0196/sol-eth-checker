@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@solana/web3.js": "^1.95.3",
+    "crypto-balances-2": "^1.0.9"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
